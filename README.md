@@ -5,7 +5,7 @@
 [File Tugas EMT](https://github.com/aliciasalsabilla1705/Alicia_23030630073_Matematika-E/blob/05fae6e602ca4aadae793503d911cc5f6ba65539/23030630073%20Alicia%20Salsabilla%20emt%201-6.en)
 
 2. File Tugas EMT format LaTeX
-[File Tugas EMT format LaTeX]()
+[File Tugas EMT format LaTeX](https://github.com/aliciasalsabilla1705/Alicia_23030630073_Matematika-E/blob/89f4ec31039a442dd18c91a2ead5687523473fd7/23030630073%20Alicia%20Salsabilla%20emt%201-6.tex)
 
 3. File Tugas EMT format Markdown
 [File Tugas EMT format Markdown]()
